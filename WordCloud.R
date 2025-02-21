@@ -22,7 +22,7 @@ library(proxy)
 
 # install.packages("SnowballC")
 library(SnowballC)
-setwd("/Users/sandyyin/Desktop/RRRRRRR/hwwww/hw5")
+setwd("xxxxx")
 
 # 載入資料
 data <- read.csv("IMDb_Feature Film_2022_review_data.csv")
